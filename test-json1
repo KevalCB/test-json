@@ -20,7 +20,7 @@
  	        "start_facebook_inter_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		
 		"main_is_Inter": "true",
-	        "ad_mode_main": "admob",
+	        "ad_mode_main": "qureka",
  	        "main_admob_inter_id": "ca-app-pub-3940256099942544/1033173712",
  	    	"main_facebook_inter_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		
@@ -50,7 +50,7 @@
 		"all_data_facebook_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		
 		"exit_banner_display": "true",
-		"ad_mode_banner_exit": "admob",
+		"ad_mode_banner_exit": "facebook",
 		"exit_admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
 		"exit_facebook_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		
@@ -70,7 +70,7 @@
 		"all_data_facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
 		
 		"exit_native_display": "true",
-		"ad_mode_native_exit": "admob",
+		"ad_mode_native_exit": "facebook",
 		"exit_admob_native_id": "ca-app-pub-3940256099942544/2247696110",
 		"exit_facebook_native_id": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
 				
